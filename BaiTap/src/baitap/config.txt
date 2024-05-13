@@ -1,0 +1,1 @@
+jdbc:sqlserver://DESKTOP-41HALSU:1433;databaseName=baithi;user=sa;password=sa;trustserverCertificate=true
